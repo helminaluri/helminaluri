@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @helminaluri
 - 👀 I’m interested in online game
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on developing a website
+- 💞️ I’m looking to collaborate on developing a website app
 - 📫 How to reach me : helminaluri97@gamil.com
 - 😄 Pronouns: helmi
 
